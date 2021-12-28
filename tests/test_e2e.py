@@ -39,7 +39,7 @@ class TestE2Eone(BaseClass):
         self.driver.implicitly_wait(10)
 
         homepage = HomePage(self.driver)
-        checkoutpage = homepage.shopItems("Nokia Edge")
+        checkoutpage = homepage.shopItems("Blackberry")
         log.info("Getting the Card Titles")
         checkoutpage.getappcard().click()
         log.info("Selected the required Mobile")
