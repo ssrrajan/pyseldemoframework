@@ -1,0 +1,520 @@
+2021-12-24 20:18:44,979 :INFO : test_e2e :Getting the Card Titles
+2021-12-24 20:18:45,261 :INFO : test_e2e :Selected the required Mobile
+2021-12-24 20:18:45,410 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-25 07:10:37,664 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:10:38,169 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:10:38,169 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:15:36,960 :INFO : test_e2e :Getting the Card Titles
+2021-12-25 07:15:37,182 :INFO : test_e2e :Selected the required Mobile
+2021-12-25 07:15:37,287 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-25 07:15:42,651 :INFO : test_e2e :Selected the country
+2021-12-25 07:15:42,916 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-25 07:17:13,018 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:17:13,173 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-25 07:17:13,331 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-25 07:17:13,446 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-25 07:17:13,538 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:17:13,599 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-25 07:17:13,682 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:17:14,196 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:17:14,196 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:17:14,359 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 07:17:14,359 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 07:17:14,528 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 07:17:14,528 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 07:17:14,657 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 07:17:14,657 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 07:17:14,772 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:17:14,772 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:17:14,876 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 07:17:14,876 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 07:17:14,953 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:17:14,953 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:17:16,390 :INFO : test_e2e :Getting the Card Titles
+2021-12-25 07:17:16,649 :INFO : test_e2e :Selected the required Mobile
+2021-12-25 07:17:16,746 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-25 07:17:22,184 :INFO : test_e2e :Selected the country
+2021-12-25 07:17:22,490 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-25 07:27:18,641 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:27:18,783 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-25 07:27:18,904 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-25 07:27:18,999 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-25 07:27:19,076 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:27:19,122 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-25 07:27:19,193 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:27:19,668 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:27:19,668 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:27:19,834 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 07:27:19,834 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 07:27:19,966 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 07:27:19,966 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 07:27:20,103 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 07:27:20,103 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 07:27:20,208 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:27:20,208 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:27:20,308 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 07:27:20,308 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 07:27:20,384 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:27:20,384 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:35:20,889 :INFO : test_e2e :Getting the Card Titles
+2021-12-25 07:35:21,110 :INFO : test_e2e :Selected the required Mobile
+2021-12-25 07:35:21,216 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-25 07:35:26,619 :INFO : test_e2e :Selected the country
+2021-12-25 07:35:26,952 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-25 07:36:32,126 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:36:32,270 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-25 07:36:32,365 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-25 07:36:32,449 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-25 07:36:32,506 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:36:32,551 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-25 07:36:32,616 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:36:33,417 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:36:33,417 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:36:33,593 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 07:36:33,593 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 07:36:33,749 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 07:36:33,749 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 07:36:33,885 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 07:36:33,885 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 07:36:33,986 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:36:33,986 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:36:34,098 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 07:36:34,098 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 07:36:34,186 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:36:34,186 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:36:35,810 :INFO : test_e2e :Getting the Card Titles
+2021-12-25 07:36:36,036 :INFO : test_e2e :Selected the required Mobile
+2021-12-25 07:36:36,131 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-25 07:36:41,634 :INFO : test_e2e :Selected the country
+2021-12-25 07:36:41,941 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-25 07:43:25,239 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:43:25,427 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-25 07:43:25,574 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-25 07:43:25,684 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-25 07:43:25,761 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:43:25,811 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-25 07:43:25,879 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:43:26,363 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:43:26,363 :INFO : test_formsubmission :Opened the URL
+2021-12-25 07:43:26,519 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 07:43:26,519 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 07:43:26,664 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 07:43:26,664 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 07:43:26,786 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 07:43:26,786 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 07:43:26,920 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:43:26,920 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 07:43:27,056 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 07:43:27,056 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 07:43:27,153 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:43:27,153 :INFO : test_formsubmission :Submitted the form
+2021-12-25 07:43:28,442 :INFO : test_e2e :Getting the Card Titles
+2021-12-25 07:43:28,678 :INFO : test_e2e :Selected the required Mobile
+2021-12-25 07:43:28,780 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-25 07:43:34,139 :INFO : test_e2e :Selected the country
+2021-12-25 07:43:34,442 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-25 08:03:49,957 :INFO : test_formsubmission :Opened the URL
+2021-12-25 08:03:50,113 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-25 08:03:50,233 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-25 08:03:50,329 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-25 08:03:50,403 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 08:03:50,455 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-25 08:03:50,520 :INFO : test_formsubmission :Submitted the form
+2021-12-25 08:03:51,032 :INFO : test_formsubmission :Opened the URL
+2021-12-25 08:03:51,032 :INFO : test_formsubmission :Opened the URL
+2021-12-25 08:03:51,180 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 08:03:51,180 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 08:03:51,332 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 08:03:51,332 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 08:03:51,471 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 08:03:51,471 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 08:03:51,581 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 08:03:51,581 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 08:03:51,728 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 08:03:51,728 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 08:03:51,904 :INFO : test_formsubmission :Submitted the form
+2021-12-25 08:03:51,904 :INFO : test_formsubmission :Submitted the form
+2021-12-25 08:03:53,318 :INFO : test_e2e :Getting the Card Titles
+2021-12-25 08:03:53,572 :INFO : test_e2e :Selected the required Mobile
+2021-12-25 08:03:53,674 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-25 08:03:59,026 :INFO : test_e2e :Selected the country
+2021-12-25 08:03:59,338 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-25 08:08:10,272 :INFO : test_formsubmission :Opened the URL
+2021-12-25 08:08:10,414 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-25 08:08:10,537 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-25 08:08:10,639 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-25 08:08:10,708 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 08:08:10,753 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-25 08:08:10,823 :INFO : test_formsubmission :Submitted the form
+2021-12-25 08:08:11,302 :INFO : test_formsubmission :Opened the URL
+2021-12-25 08:08:11,302 :INFO : test_formsubmission :Opened the URL
+2021-12-25 08:08:11,453 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 08:08:11,453 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 08:08:11,595 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 08:08:11,595 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 08:08:11,720 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 08:08:11,720 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 08:08:11,820 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 08:08:11,820 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 08:08:11,919 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 08:08:11,919 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 08:08:11,995 :INFO : test_formsubmission :Submitted the form
+2021-12-25 08:08:11,995 :INFO : test_formsubmission :Submitted the form
+2021-12-25 08:08:13,576 :INFO : test_e2e :Getting the Card Titles
+2021-12-25 08:08:13,837 :INFO : test_e2e :Selected the required Mobile
+2021-12-25 08:08:13,934 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-25 08:08:19,348 :INFO : test_e2e :Selected the country
+2021-12-25 08:08:19,638 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-25 08:09:27,973 :INFO : test_formsubmission :Opened the URL
+2021-12-25 08:09:28,112 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-25 08:09:28,229 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-25 08:09:28,326 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-25 08:09:28,402 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 08:09:28,453 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-25 08:09:28,520 :INFO : test_formsubmission :Submitted the form
+2021-12-25 08:09:28,994 :INFO : test_formsubmission :Opened the URL
+2021-12-25 08:09:28,994 :INFO : test_formsubmission :Opened the URL
+2021-12-25 08:09:29,151 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 08:09:29,151 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 08:09:29,297 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 08:09:29,297 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 08:09:29,420 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 08:09:29,420 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 08:09:29,527 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 08:09:29,527 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 08:09:29,628 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 08:09:29,628 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 08:09:29,707 :INFO : test_formsubmission :Submitted the form
+2021-12-25 08:09:29,707 :INFO : test_formsubmission :Submitted the form
+2021-12-25 08:09:30,928 :INFO : test_e2e :Getting the Card Titles
+2021-12-25 08:09:31,172 :INFO : test_e2e :Selected the required Mobile
+2021-12-25 08:09:31,262 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-25 08:09:36,669 :INFO : test_e2e :Selected the country
+2021-12-25 08:09:36,923 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-25 14:42:55,241 :INFO : test_formsubmission :Opened the URL
+2021-12-25 14:42:55,523 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-25 14:42:55,774 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-25 14:42:55,988 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-25 14:42:56,157 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 14:42:56,263 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-25 14:42:56,386 :INFO : test_formsubmission :Submitted the form
+2021-12-25 14:42:56,862 :INFO : test_formsubmission :Opened the URL
+2021-12-25 14:42:56,862 :INFO : test_formsubmission :Opened the URL
+2021-12-25 14:42:57,009 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 14:42:57,009 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-25 14:42:57,169 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 14:42:57,169 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-25 14:42:57,314 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 14:42:57,314 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-25 14:42:57,473 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 14:42:57,473 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-25 14:42:57,592 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 14:42:57,592 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-25 14:42:57,699 :INFO : test_formsubmission :Submitted the form
+2021-12-25 14:42:57,699 :INFO : test_formsubmission :Submitted the form
+2021-12-25 14:42:58,924 :INFO : test_e2e :Getting the Card Titles
+2021-12-25 14:42:59,191 :INFO : test_e2e :Selected the required Mobile
+2021-12-25 14:42:59,289 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-25 14:43:04,674 :INFO : test_e2e :Selected the country
+2021-12-25 14:43:04,912 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 12:16:38,163 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:16:38,463 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 12:16:38,677 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 12:16:38,904 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 12:16:39,165 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:16:39,267 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 12:16:39,372 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:16:40,154 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:16:40,154 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:16:40,424 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 12:16:40,424 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 12:16:40,564 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 12:16:40,564 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 12:16:40,669 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 12:16:40,669 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 12:16:40,819 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:16:40,819 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:16:40,931 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 12:16:40,931 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 12:16:41,006 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:16:41,006 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:16:42,833 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 12:16:43,091 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 12:16:43,217 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 12:16:48,638 :INFO : test_e2e :Selected the country
+2021-12-27 12:16:48,904 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 12:19:28,263 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:19:28,429 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 12:19:28,553 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 12:19:28,656 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 12:19:28,742 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:19:28,792 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 12:19:28,865 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:19:29,428 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:19:29,428 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:19:29,588 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 12:19:29,588 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 12:19:29,729 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 12:19:29,729 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 12:19:29,849 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 12:19:29,849 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 12:19:29,956 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:19:29,956 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:19:30,053 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 12:19:30,053 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 12:19:30,136 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:19:30,136 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:19:31,898 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 12:19:32,131 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 12:19:32,265 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 12:19:37,916 :INFO : test_e2e :Selected the country
+2021-12-27 12:19:38,153 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 12:23:15,192 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:23:15,525 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 12:23:15,689 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 12:23:15,835 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 12:23:15,945 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:23:16,011 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 12:23:16,112 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:23:16,826 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:23:16,826 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:23:16,991 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 12:23:16,991 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 12:23:17,148 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 12:23:17,148 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 12:23:17,294 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 12:23:17,294 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 12:23:17,425 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:23:17,425 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:23:17,564 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 12:23:17,564 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 12:23:17,659 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:23:17,659 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:23:19,770 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 12:23:20,188 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 12:23:20,351 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 12:23:25,817 :INFO : test_e2e :Selected the country
+2021-12-27 12:23:26,233 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 12:24:34,701 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:24:35,013 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 12:24:35,292 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 12:24:35,678 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 12:24:36,298 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:24:36,557 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 12:24:36,664 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:24:37,383 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:24:37,383 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:24:37,577 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 12:24:37,577 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 12:24:37,763 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 12:24:37,763 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 12:24:37,942 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 12:24:37,942 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 12:24:38,166 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:24:38,166 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:24:38,312 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 12:24:38,312 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 12:24:38,440 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:24:38,440 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:24:40,439 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 12:24:40,725 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 12:24:40,832 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 12:24:46,331 :INFO : test_e2e :Selected the country
+2021-12-27 12:24:46,634 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 12:30:30,695 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:30:30,887 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 12:30:31,024 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 12:30:31,121 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 12:30:31,204 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:30:31,253 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 12:30:31,339 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:30:32,327 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:30:32,327 :INFO : test_formsubmission :Opened the URL
+2021-12-27 12:30:32,472 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 12:30:32,472 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 12:30:32,595 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 12:30:32,595 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 12:30:32,718 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 12:30:32,718 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 12:30:32,838 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:30:32,838 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 12:30:32,942 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 12:30:32,942 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 12:30:33,021 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:30:33,021 :INFO : test_formsubmission :Submitted the form
+2021-12-27 12:30:36,888 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 12:30:37,178 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 12:30:37,293 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 12:30:42,690 :INFO : test_e2e :Selected the country
+2021-12-27 12:30:42,950 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 13:41:45,793 :INFO : test_formsubmission :Opened the URL
+2021-12-27 13:41:46,077 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 13:41:46,294 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 13:41:46,481 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 13:41:46,651 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 13:41:46,795 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 13:41:46,932 :INFO : test_formsubmission :Submitted the form
+2021-12-27 13:41:47,611 :INFO : test_formsubmission :Opened the URL
+2021-12-27 13:41:47,611 :INFO : test_formsubmission :Opened the URL
+2021-12-27 13:41:47,875 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 13:41:47,875 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 13:41:48,066 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 13:41:48,066 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 13:41:48,227 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 13:41:48,227 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 13:41:48,340 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 13:41:48,340 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 13:41:48,465 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 13:41:48,465 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 13:41:48,642 :INFO : test_formsubmission :Submitted the form
+2021-12-27 13:41:48,642 :INFO : test_formsubmission :Submitted the form
+2021-12-27 13:41:50,680 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 13:41:51,023 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 13:41:51,250 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 13:41:56,795 :INFO : test_e2e :Selected the country
+2021-12-27 13:41:57,271 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 13:54:11,013 :INFO : test_formsubmission :Opened the URL
+2021-12-27 13:54:11,228 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 13:54:11,331 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 13:54:11,400 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 13:54:11,669 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 13:54:11,713 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 13:54:11,995 :INFO : test_formsubmission :Submitted the form
+2021-12-27 13:54:13,310 :INFO : test_formsubmission :Opened the URL
+2021-12-27 13:54:13,310 :INFO : test_formsubmission :Opened the URL
+2021-12-27 13:54:13,449 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 13:54:13,449 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 13:54:13,531 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 13:54:13,531 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 13:54:13,587 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 13:54:13,587 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 13:54:13,849 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 13:54:13,849 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 13:54:14,116 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 13:54:14,116 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 13:54:14,364 :INFO : test_formsubmission :Submitted the form
+2021-12-27 13:54:14,364 :INFO : test_formsubmission :Submitted the form
+2021-12-27 13:54:17,459 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 13:54:17,847 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 13:54:18,116 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 13:54:23,794 :INFO : test_e2e :Selected the country
+2021-12-27 13:54:24,282 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 14:01:58,888 :INFO : test_formsubmission :Opened the URL
+2021-12-27 14:01:59,023 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 14:01:59,120 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 14:01:59,179 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 14:01:59,441 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 14:01:59,517 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 14:02:00,006 :INFO : test_formsubmission :Submitted the form
+2021-12-27 14:02:03,123 :INFO : test_formsubmission :Opened the URL
+2021-12-27 14:02:03,123 :INFO : test_formsubmission :Opened the URL
+2021-12-27 14:02:03,277 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 14:02:03,277 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 14:02:03,413 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 14:02:03,413 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 14:02:03,476 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 14:02:03,476 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 14:02:03,743 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 14:02:03,743 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 14:02:04,047 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 14:02:04,047 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 14:02:04,403 :INFO : test_formsubmission :Submitted the form
+2021-12-27 14:02:04,403 :INFO : test_formsubmission :Submitted the form
+2021-12-27 14:02:07,279 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 14:02:07,715 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 14:02:07,984 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 14:02:13,716 :INFO : test_e2e :Selected the country
+2021-12-27 14:02:14,236 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 14:02:40,774 :INFO : test_formsubmission :Opened the URL
+2021-12-27 14:02:40,935 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 14:02:41,021 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 14:02:41,068 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 14:02:41,329 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 14:02:41,380 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 14:02:41,672 :INFO : test_formsubmission :Submitted the form
+2021-12-27 14:02:43,492 :INFO : test_formsubmission :Opened the URL
+2021-12-27 14:02:43,492 :INFO : test_formsubmission :Opened the URL
+2021-12-27 14:02:43,715 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 14:02:43,715 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 14:02:43,873 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 14:02:43,873 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 14:02:43,957 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 14:02:43,957 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 14:02:44,209 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 14:02:44,209 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 14:02:44,522 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 14:02:44,522 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 14:02:44,791 :INFO : test_formsubmission :Submitted the form
+2021-12-27 14:02:44,791 :INFO : test_formsubmission :Submitted the form
+2021-12-27 14:02:47,626 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 14:02:48,031 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 14:02:48,298 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 14:02:53,990 :INFO : test_e2e :Selected the country
+2021-12-27 14:02:54,477 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 14:09:16,853 :INFO : test_formsubmission :Opened the URL
+2021-12-27 14:09:17,185 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 14:09:17,372 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 14:09:17,525 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 14:09:17,626 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 14:09:17,707 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 14:09:17,806 :INFO : test_formsubmission :Submitted the form
+2021-12-27 14:09:18,977 :INFO : test_formsubmission :Opened the URL
+2021-12-27 14:09:18,977 :INFO : test_formsubmission :Opened the URL
+2021-12-27 14:09:19,144 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 14:09:19,144 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 14:09:19,295 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 14:09:19,295 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 14:09:19,507 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 14:09:19,507 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 14:09:19,628 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 14:09:19,628 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 14:09:19,741 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 14:09:19,741 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 14:09:19,833 :INFO : test_formsubmission :Submitted the form
+2021-12-27 14:09:19,833 :INFO : test_formsubmission :Submitted the form
+2021-12-27 14:09:21,649 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 14:09:21,894 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 14:09:21,991 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 14:09:27,561 :INFO : test_e2e :Selected the country
+2021-12-27 14:09:27,860 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 17:11:26,170 :INFO : test_formsubmission :Opened the URL
+2021-12-27 17:11:26,432 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 17:11:26,621 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 17:11:26,786 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 17:11:26,890 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 17:11:26,975 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 17:11:27,102 :INFO : test_formsubmission :Submitted the form
+2021-12-27 17:11:29,223 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 17:11:29,508 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 17:11:29,616 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 17:11:35,033 :INFO : test_e2e :Selected the country
+2021-12-27 17:11:36,397 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 17:12:02,379 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 17:12:02,709 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 17:12:02,842 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 17:12:08,392 :INFO : test_e2e :Selected the country
+2021-12-27 17:12:08,647 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 17:13:43,583 :INFO : test_formsubmission :Opened the URL
+2021-12-27 17:13:44,046 :INFO : test_formsubmission :Entered name: Sunderrajan Srinivasan
+2021-12-27 17:13:44,500 :INFO : test_formsubmission :Entered mail: ssrrajan@gmail.com
+2021-12-27 17:13:44,670 :INFO : test_formsubmission :Entered Password: ssrrajan123
+2021-12-27 17:13:44,770 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 17:13:44,843 :INFO : test_formsubmission :Selected the gender as Male
+2021-12-27 17:13:44,963 :INFO : test_formsubmission :Submitted the form
+2021-12-27 17:13:47,350 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 17:13:47,929 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 17:13:48,137 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 17:13:54,341 :INFO : test_e2e :Selected the country
+2021-12-27 17:13:54,505 :INFO : test_e2e :Submitted the Purchasing successfully
+2021-12-27 17:15:46,075 :INFO : test_formsubmission :Opened the URL
+2021-12-27 17:15:46,242 :INFO : test_formsubmission :Entered name: Pavithra Sunderrajan
+2021-12-27 17:15:46,394 :INFO : test_formsubmission :Entered mail: pavit88@gmail.com
+2021-12-27 17:15:46,513 :INFO : test_formsubmission :Entered Password: pavithra123
+2021-12-27 17:15:46,618 :INFO : test_formsubmission :Selected the Checkbox
+2021-12-27 17:15:46,774 :INFO : test_formsubmission :Selected the gender as Female
+2021-12-27 17:15:46,900 :INFO : test_formsubmission :Submitted the form
+2021-12-27 17:15:49,182 :INFO : test_e2e :Getting the Card Titles
+2021-12-27 17:15:49,593 :INFO : test_e2e :Selected the required Mobile
+2021-12-27 17:15:49,757 :INFO : test_e2e :Moving to Card Checkout page
+2021-12-27 17:15:55,490 :INFO : test_e2e :Selected the country
+2021-12-27 17:15:56,395 :INFO : test_e2e :Submitted the Purchasing successfully
